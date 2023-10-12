@@ -12,6 +12,10 @@ public class CharExample {
         char nextChar = (char) (myChar + 1);
         System.out.println("The next character is: " + nextChar);
 
+        char rupee = 8377;
+
+        System.out.println("Rupee Symbol is: " + rupee);
+
 
     }
 }
